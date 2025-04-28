@@ -1,0 +1,6 @@
+[submodule "MyStation/hugo"]
+	path = MyStation/hugo
+	url = git@github.com:gohugoio/hugo.git
+[submodule "MyStation/themes/hugo-bootstrap-theme"]
+	path = MyStation/themes/hugo-bootstrap-theme
+	url = git@github.com:filipecarneiro/hugo-bootstrap-theme.git
